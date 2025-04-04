@@ -49,7 +49,15 @@ For testing purposes, use the following login details:
 - *Or register as a new user.*
 
 ## 📸 Screenshots
-![Preview](path/to/screenshot.png) *(Replace with an actual image or GIF)*
+![Image](https://github.com/user-attachments/assets/2de342e6-ce17-4781-a53a-bcdcc489b7f1)
+
+![Image](https://github.com/user-attachments/assets/34925200-b9d0-4de8-a2f5-ea15a1f282a9)
+
+![Image](https://github.com/user-attachments/assets/abcf363d-648b-461c-a4dd-66a5358bc55e)
+
+![Image](https://github.com/user-attachments/assets/e61c33f1-381d-4c0d-9299-8cf2cf10925b)
+
+![Image](https://github.com/user-attachments/assets/b461e168-35fb-44e0-9458-f3f9cde5e641)
 
 ## 📌 Future Enhancements
 ✅ **Enhanced Security and Authentication**
